@@ -1,5 +1,3 @@
 coucou
 
-et re-coucou
-
 test de stash
